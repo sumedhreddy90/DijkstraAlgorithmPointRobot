@@ -1,4 +1,4 @@
-# Implementation of Dijkstraw algorith for a Point Robot
+# Implementation of Dijkstra algorithm for a Point Robot
 
 ## Usage
 
