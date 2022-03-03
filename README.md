@@ -8,7 +8,7 @@
 ```
 git clone https://github.com/sumedhreddy90/DijkstraAlgorithmPointRobot.git
 cd DijkstraAlgorithmPointRobot
-python3 Dijkstra.py -source 0 0 -destination 160 180
+python3 Dijkstra-pathplanning-Sumedh-Koppula.py -source 0 0 -destination 160 180
 ```
 
 2) View the ouput
