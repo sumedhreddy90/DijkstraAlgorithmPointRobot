@@ -18,11 +18,12 @@ cd DijkstraAlgorithmPointRobot
 ```
 - Dijkstra Map
 
-![dijkstra_map](https://user-images.githubusercontent.com/24978535/156187843-23a4f189-54fd-42e2-8663-ba5141f6b3a9.jpg)
+![dijkstra_map](https://user-images.githubusercontent.com/24978535/156606227-25bec584-e46f-46d9-a16e-4d9a91ce084a.jpg)
 
 - Back Trace Map
 
-![BackTrace](https://user-images.githubusercontent.com/24978535/156187902-5870ab5b-e423-422d-8e61-c5d20ccf6622.gif)
+![BackTrace](https://user-images.githubusercontent.com/24978535/156606300-cf9fb41e-7fcb-421a-9f74-fbadf960c04c.gif)
+
 
 - Exploration Map (visit google drive for live exploration map)
 
